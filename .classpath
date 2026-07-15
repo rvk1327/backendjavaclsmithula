@@ -7,5 +7,10 @@
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="A:/Classes/Application Development/programs/imgscalr-lib-4.2.jar"/>
+	<classpathentry kind="lib" path="A:/softwares/Java Softwares/New folder/MSOffice Jars/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="A:/softwares/Java Softwares/New folder/MSOffice Jars/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="A:/softwares/Java Softwares/New folder/MSOffice Jars/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="lib" path="A:/softwares/Java Softwares/New folder/MSOffice Jars/poi-ooxml-schemas-3.9.jar"/>
+	<classpathentry kind="lib" path="A:/softwares/Java Softwares/New folder/MSOffice Jars/xmlbeans-2.3.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
